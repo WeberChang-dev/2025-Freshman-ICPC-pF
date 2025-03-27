@@ -1,2 +1,3 @@
 # 2025 FRESHMAN ICPC pF
-This is the initial commit :D
+Welcome! This is the entrance of Thalia's Pine Tree.  
+Try your best to browse through branches, present and past, to find the golden leaf...
